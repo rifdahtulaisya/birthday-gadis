@@ -176,7 +176,6 @@ body {
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
-            font-family: 'Pixelify Sans', sans-serif;
         }
 
         .carousel-container {
@@ -285,7 +284,6 @@ body {
             margin-bottom: 10px;
             position: relative;
             display: inline-block;
-            font-family: 'Pixelify Sans', sans-serif;
         }
 
         .member-name::before,
@@ -316,7 +314,6 @@ body {
             padding: 10px 0;
             margin-top: -15px;
             position: relative;
-            font-family: 'Pixelify Sans', sans-serif;
         }
         .dots {
             display: flex;
